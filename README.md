@@ -1,5 +1,4 @@
-# User Defined Functions
-MRoy, 8/23/20
+# User Defined Functions                                                                                                                                                           MRoy, 8/23/20 
 
 ## Introduction
 This paper will explain a when to use a SQL User Defined Function (UDF) and the differences between Scalar, Inline, and Multi-Statement Functions. 
